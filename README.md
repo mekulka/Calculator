@@ -1,2 +1,1 @@
-# Calculator
-Calculator coded from C++
+# Calculator coded from C++
